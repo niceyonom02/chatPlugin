@@ -1,0 +1,6 @@
+name: chatPlugin
+version: 1.0.0
+main: main.Main
+commands:
+  채팅방:
+    description: qwewq
